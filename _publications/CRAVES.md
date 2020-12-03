@@ -2,7 +2,7 @@
 title: "CRAVES: Controlling Robotic Arm with a Vision-based Economic System"
 collection: publications
 permalink: /publications/CRAVES
-venue: "the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+venue: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
 date: 2019-6-18
 citation: '<b>Yiming Zuo</b>*, Weichao Qiu*, Lingxi Xie, Fangwei Zhong, Yizhou Wang, Alan L. Yuille'
 ---

@@ -2,7 +2,7 @@
 title: "Human Pose Estimation with Parsing Induced Learner"
 collection: publications
 permalink: /publications/PIL
-venue: "the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+venue: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
 date: 2018-6-18
 citation: 'Xuecheng Nie, Jiashi Feng, <b>Yiming Zuo</b>, Shuicheng Yan'
 ---
