@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For my full CV, see [here](http://zuoym15.github.io/files/Yiming_Zuo_CV.pdf)
+For my full CV, see [here](http://zuoym15.github.io/files/Yiming_Zuo_CV.pdf).
 
 Education
 ======
