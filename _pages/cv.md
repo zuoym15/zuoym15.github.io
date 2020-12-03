@@ -9,13 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+For my full CV, see [here](http://zuoym15.github.io/files/Yiming_Zuo_CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+* M.S. in Robotics, Carnegie Mellon University, 2021 (expected). Research Advisor: [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/)
+* B.Eng in Electronic Engineering (with Honors), Tsinghua University, 2019.
+* Visiting Student, Johns Hopkins University, 2018. Research Advisor: [Prof. Alan L. Yuille](http://www.cs.jhu.edu/~ayuille/)
+* Exchange Student, National Unversity of Singapore, 2017. Research Advisor: [Prof. Jiashi Feng](https://sites.google.com/site/jshfeng/)
+
+Teaching Experience
+======
+
+* Teaching Assistant, Media and Cognition, Tsinghua University, Fall 2018
+
+Selected Honors
+======
+
+* GE Annual Book Prize for the Best Student in Communications, General Electric, Inc, 2018
+*	TI Book Prize for the Best Student in Digital Signal Processing and Systems, Texas Instrument, Inc, 2018
+* Qualcomm Scholarship (top 2%), Qualcomm, Inc, 2017
+* First Prize, Chinese High School Biology Olympiad, Zoological and Botanical Society of China, 2014
+
+Academic Services
+======
+
+* Conference Reviewer: ICRA 2021
+
+Miscellaneous
+======
+
+* I'm a beginner Japanese Learner, having passed JLPT N3.
+* I love playing Texas Hold'em and Pokémon.
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,9 +53,11 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
+
+
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +86,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
