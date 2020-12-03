@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year M.S. in Robotics ([MSR](https://www.ri.cmu.edu/education/academic-programs/master-of-science-robotics/)) student in the [Robitics Instititute](https://www.ri.cmu.edu/) at [Carneigie Mellon University](https://www.cmu.edu/). My research advisor is [Prof.Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I received my B.Eng. in Electornic Engineering in [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2019. Even before that, I finished my high school in the [High School Affiliated to Renmin University of China](http://www.rdfz.cn/en/) (RDFZ) in 2015.
+I'm a second year M.S. in Robotics ([MSR](https://www.ri.cmu.edu/education/academic-programs/master-of-science-robotics/)) student in the [Robitics Instititute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). My research advisor is [Prof.Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I received my B.Eng. in Electornic Engineering in [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2019. Even before that, I finished my high school in the [High School Affiliated to Renmin University of China](http://www.rdfz.cn/en/) (RDFZ) in 2015.
 
 
 Research Interests
