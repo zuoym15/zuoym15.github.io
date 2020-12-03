@@ -14,3 +14,10 @@ I'm a second year M.S. in Robotics ([MSR](https://www.ri.cmu.edu/education/acade
 Research Interests
 ======
 My research interests are mainly 3D Computer Vision, Unsupervised Learning, and other computer vision appilcations such as Object Tracking and Cognitive Robotics. My long-term goal is to discover effective ways of building lifelong learning systems that can mine data from the environment, learn in an unsupervised manner, and continue to improve itself with minimal human intervention. I believe such systems can hugely benefit the human society and are an important stepping stone to Artificial General Intelligence.
+
+
+Contact
+======
+Robotics Institute, Carnegie Mellon University<br>
+Newell-Simon Hall 4604, Carnegie Mellon University, Pittsburgh, PA, 15213<br>
+Email: yzuo [at] andrew.cmu.edu
