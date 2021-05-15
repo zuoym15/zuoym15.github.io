@@ -2,9 +2,9 @@
 title: "Track, Check, Repeat: An EM Approach to Unsupervised Tracking"
 collection: publications
 permalink: /publications/EM_track
-venue: "Manuscript currently under review"
-date: 2020-12-2
-citation: 'Adam W. Harley, <b>Yiming Zuo</b>, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki'
+venue: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+date: 2021-6-19
+citation: 'Adam W. Harley, <b>Yiming Zuo*</b>, Jing Wen*, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki'
 ---
 
 [[PDF]](http://zuoym15.github.io/files/EM_track.pdf)

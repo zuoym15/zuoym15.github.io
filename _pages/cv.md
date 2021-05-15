@@ -40,7 +40,7 @@ Academic Services
 Miscellaneous
 ======
 
-* I'm a beginner Japanese Learner, having passed JLPT N3.
+* I'm a beginner Japanese learner, having passed JLPT N3.
 * I love playing Texas Hold'em and Pokémon.
 
 <!-- Work experience

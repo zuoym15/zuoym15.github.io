@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year M.S. in Robotics ([MSR](https://www.ri.cmu.edu/education/academic-programs/master-of-science-robotics/)) student in the [Robitics Instititute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). My research advisor is [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I received my B.Eng. in Electronic Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2019. Prior to that, I graduated from the [High School Affiliated to Renmin University of China](http://www.rdfz.cn/en/) (RDFZ) in 2015.
+I'm a second year M.S. in Robotics ([MSR](https://www.ri.cmu.edu/education/academic-programs/master-of-science-robotics/)) student in the [Robitics Instititute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). My current research advisor is [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I received my B.Eng. in Electronic Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2019. Prior to that, I graduated from the [High School Affiliated to Renmin University of China](http://www.rdfz.cn/en/) (RDFZ) in 2015.
+
+I'll be a Ph.D. student at [Princeton University](https://www.cs.princeton.edu/) starting from fall 2021.
 
 
 Research Interests
