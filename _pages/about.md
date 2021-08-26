@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year M.S. in Robotics ([MSR](https://www.ri.cmu.edu/education/academic-programs/master-of-science-robotics/)) student in the [Robitics Instititute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). My current research advisor is [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I received my B.Eng. in Electronic Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2019. Prior to that, I graduated from the [High School Affiliated to Renmin University of China](http://www.rdfz.cn/en/) (RDFZ) in 2015.
-
-I'll be a Ph.D. student at [Princeton University](https://www.cs.princeton.edu/) starting from fall 2021.
+I'm a first year Ph.D. in [Computer Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/). My current research advisor is [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my M.S. degree from the [Robitics Instititute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), working with [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I received my B.Eng. in Electronic Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2019. Prior to that, I graduated from the [High School Affiliated to Renmin University of China](http://www.rdfz.cn/en/) (RDFZ) in 2015.
 
 
 Research Interests
@@ -20,6 +18,6 @@ My research interests are mainly 3D computer vision, unsupervised learning, and 
 
 Contact
 ======
-Robotics Institute, Carnegie Mellon University<br>
-Newell-Simon Hall 4604, Carnegie Mellon University, Pittsburgh, PA, 15213<br>
-Email: yzuo [at] andrew.cmu.edu
+Department of Computer Science, Princeton University<br>
+35 Olden Street, Princeton, NJ 08540-5233<br>
+Email: zuoym [at] princeton.edu

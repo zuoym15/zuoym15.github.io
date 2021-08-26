@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiming Zuo"
 title_separator          : "-"
 name                     : &name "Yiming Zuo"
-description              : &description "MSR candidate, Carnegie Mellon University"
+description              : &description "Ph.D. student, Princeton University"
 url                      : https://zuoym15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zuoym15/zuoym15.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yiming Zuo"
   avatar           : "avatar.jpg"
-  bio              : "MSR candidate, Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "Ph.D. student, Princeton University"
+  location         : "Princeton, NJ"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yzuo@andrew.cmu.edu"
+  email            : "zuoym@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

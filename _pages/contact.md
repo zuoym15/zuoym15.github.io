@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Robotics Institute, Carnegie Mellon University<br>
-Newell-Simon Hall 4604, Carnegie Mellon University, Pittsburgh, PA, 15213<br>
-Email: yzuo [at] andrew.cmu.edu
+Department of Computer Science, Princeton University<br>
+35 Olden Street, Princeton, NJ 08540-5233<br>
+Email: zuoym [at] princeton.edu

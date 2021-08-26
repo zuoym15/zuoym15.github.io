@@ -14,7 +14,8 @@ For my full CV, see [here](http://zuoym15.github.io/files/Yiming_Zuo_CV.pdf).
 Education
 ======
 
-* M.S. in Robotics, Carnegie Mellon University, 2021 (expected). Research Advisor: [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/)
+* Ph.D. in Computer Science, Princeton University. Research advisor: [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
+* M.S. in Robotics, Carnegie Mellon University, 2021. Research Advisor: [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/)
 * B.Eng in Electronic Engineering (with Honors), Tsinghua University, 2019.
 * Visiting Student, Johns Hopkins University, 2018. Research Advisor: [Prof. Alan L. Yuille](http://www.cs.jhu.edu/~ayuille/)
 * Exchange Student, National Unversity of Singapore, 2017. Research Advisor: [Prof. Jiashi Feng](https://sites.google.com/site/jshfeng/)
