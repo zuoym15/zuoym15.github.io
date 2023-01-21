@@ -23,7 +23,9 @@ Education
 Teaching Experience
 ======
 
+* Teaching Assistant, COS 451 (Computational Geometry), Princeton University, Prof. Bernard Chazelle, Fall 2022
 * Teaching Assistant, Media and Cognition, Tsinghua University, Fall 2018
+
 
 Selected Honors
 ======
@@ -36,7 +38,7 @@ Selected Honors
 Academic Services
 ======
 
-* Conference Reviewer: ICRA 2021
+* Conference Reviewer: ICRA 21/22, ICML 22, CVPR 23
 
 Miscellaneous
 ======

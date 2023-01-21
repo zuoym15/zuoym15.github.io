@@ -2,7 +2,7 @@
 title: "View Synthesis with Sculpted Neural Points"
 collection: publications
 permalink: /publications/SNP
-venue: "arXiv:2205.05869"
+venue: "(Oral Presentation) International Conference on Learning Representations (ICLR) 2023"
 date: 2022-5-12
 citation: '<b>Yiming Zuo</b>, Jia Deng'
 ---
