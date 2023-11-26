@@ -23,6 +23,7 @@ Education
 Teaching Experience
 ======
 
+* Teaching Assistant, COS 226 (Algorithms and Data Structures), Princeton University, Prof. Kevin Wayne and Prof. Dan Leyzberg, Spring 2023
 * Teaching Assistant, COS 451 (Computational Geometry), Princeton University, Prof. Bernard Chazelle, Fall 2022
 * Teaching Assistant, Media and Cognition, Tsinghua University, Fall 2018
 
@@ -38,7 +39,7 @@ Selected Honors
 Academic Services
 ======
 
-* Conference Reviewer: ICRA 21/22, ICML 22, CVPR 23
+* Conference Reviewer: CVPR 23/24, ICCV 23, ICML 22, ICRA 21/22
 
 Miscellaneous
 ======
