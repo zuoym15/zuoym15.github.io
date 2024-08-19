@@ -17,35 +17,33 @@ Education
 * Ph.D. in Computer Science, Princeton University. Research advisor: [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
 * M.S. in Robotics, Carnegie Mellon University, 2021. Research Advisor: [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/)
 * B.Eng in Electronic Engineering (with Honors), Tsinghua University, 2019.
+
+Visiting Positions
+======
 * Visiting Student, Johns Hopkins University, 2018. Research Advisor: [Prof. Alan L. Yuille](http://www.cs.jhu.edu/~ayuille/)
 * Exchange Student, National Unversity of Singapore, 2017. Research Advisor: [Prof. Jiashi Feng](https://sites.google.com/site/jshfeng/)
-
-Teaching Experience
-======
-
-* Teaching Assistant, COS 226 (Algorithms and Data Structures), Princeton University, Prof. Kevin Wayne and Prof. Dan Leyzberg, Spring 2023
-* Teaching Assistant, COS 451 (Computational Geometry), Princeton University, Prof. Bernard Chazelle, Fall 2022
-* Teaching Assistant, Media and Cognition, Tsinghua University, Fall 2018
-
 
 Selected Honors
 ======
 
-* GE Annual Book Prize for the Best Student in Communications, General Electric, Inc, 2018
-*	TI Book Prize for the Best Student in Digital Signal Processing and Systems, Texas Instrument, Inc, 2018
-* Qualcomm Scholarship (top 2%), Qualcomm, Inc, 2017
-* First Prize, Chinese High School Biology Olympiad, Zoological and Botanical Society of China, 2014
+* Outstanding Undergraduate (Bachelor’s Degree with Honors), top 10\% students, Tsinghua University, 2019
+*	Tsinghua Research Excellence Award, top 5\%, Tsinghua University, 2018
+* Tsinghua Academic Excellence Award, top 5\%, Tsinghua University, 2018
+* Qualcomm Scholarship (60 among 3000, top 2\%), Qualcomm, Inc \& Tsinghua University, 2017
+* Wong Lo-Kat Scholarship for Outstanding Academic Performance, Wong Lo-Kat, Inc \& Tsinghua University, 2017
+* First Prize, Chinese High School Biology Olympiad, Zoological and Botanical Society of China, 2014 
 
 Academic Services
 ======
 
-* Conference Reviewer: CVPR 23/24, ICCV 23, ICML 22, ICRA 21/22
+* Conference Reviewer: CVPR 24/23, ECCV 24, ICCV 23, NeurIPS 24, ICML 22, ICRA 22/21
 
 Miscellaneous
 ======
-
+* I love birds! I do bird watching and wildlife photography.
+* I play Mahjong, Texas Hold'em and Pokémon.
 * I'm a beginner Japanese learner, having passed JLPT N3.
-* I love playing Texas Hold'em and Pokémon.
+
 
 <!-- Work experience
 ======
