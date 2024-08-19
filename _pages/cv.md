@@ -26,11 +26,11 @@ Visiting Positions
 Selected Honors
 ======
 
-* Outstanding Undergraduate (Bachelor’s Degree with Honors), top 10\% students, Tsinghua University, 2019
-*	Tsinghua Research Excellence Award, top 5\%, Tsinghua University, 2018
-* Tsinghua Academic Excellence Award, top 5\%, Tsinghua University, 2018
-* Qualcomm Scholarship (60 among 3000, top 2\%), Qualcomm, Inc \& Tsinghua University, 2017
-* Wong Lo-Kat Scholarship for Outstanding Academic Performance, Wong Lo-Kat, Inc \& Tsinghua University, 2017
+* Outstanding Undergraduate (Bachelor’s Degree with Honors), top 10% students, Tsinghua University, 2019
+*	Tsinghua Research Excellence Award, top 5%, Tsinghua University, 2018
+* Tsinghua Academic Excellence Award, top 5%, Tsinghua University, 2018
+* Qualcomm Scholarship (60 among 3000, top 2%), Qualcomm, Inc & Tsinghua University, 2017
+* Wong Lo-Kat Scholarship for Outstanding Academic Performance, Wong Lo-Kat, Inc & Tsinghua University, 2017
 * First Prize, Chinese High School Biology Olympiad, Zoological and Botanical Society of China, 2014 
 
 Academic Services

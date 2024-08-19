@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year Ph.D. in [Computer Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/). My current research advisor is [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my M.S. degree from the [Robitics Instititute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), working with [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I received my B.Eng. in Electronic Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2019.
+I'm a 4-th year Ph.D. in [Computer Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/). My current research advisor is [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my M.S. degree from the [Robitics Instititute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), working with [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/). I received my B.Eng. in Electronic Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) in 2019.
 
 
 Research Interests
