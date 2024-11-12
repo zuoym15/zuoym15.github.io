@@ -36,7 +36,7 @@ Selected Honors
 Academic Services
 ======
 
-* Conference Reviewer: CVPR 24/23, ECCV 24, ICCV 23, NeurIPS 24, ICML 22, ICRA 22/21
+* Conference Reviewer: CVPR 23-25, ECCV 24, ICCV 23, NeurIPS 24, ICLR 25, ICML 22, 3DV 25, ICRA 21/22
 
 Miscellaneous
 ======
