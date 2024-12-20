@@ -7,8 +7,8 @@ author_profile: true
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
     <i>American Tree Sparrow on a Golden Perch</i><br>
-    <i>Pole Farm, Princeton NJ</i>
+    Pole Farm, Princeton NJ
 </p>
-<p align="center">
-    <img src="../files/bird_photos/american_tree_sparrow.jpeg" width="70%">
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/american_tree_sparrow.jpg" width="70%">
 </p>
