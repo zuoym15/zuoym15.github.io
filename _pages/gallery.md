@@ -14,7 +14,7 @@ author_profile: true
 </p>
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
-    <b>American Kestrel at the Sunset</b><br>
+    <b>American Kestrel at The Sunset</b><br>
     Pole Farm, Princeton NJ
 </p>
 <p align="center" style="margin-top: 0;">

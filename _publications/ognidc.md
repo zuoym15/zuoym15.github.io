@@ -7,7 +7,7 @@ date: 2024-9-29
 citation: '<b>Yiming Zuo</b>, Jia Deng'
 ---
 
-[[PDF]](https://arxiv.org/pdf/2406.11711)
+[[PDF]](https://arxiv.org/pdf/2411.19278)
 
 ## Abstract
-Depth completion is the task of generating a dense depth map given an image and a sparse depth map as inputs. It has important applications in various downstream tasks. In this paper, we present OGNI-DC, a novel framework for depth completion. The key to our method is "Optimization-Guided Neural Iterations" (OGNI). It consists of a recurrent unit that refines a depth gradient field and a differentiable depth integrator that integrates the depth gradients into a depth map. OGNI-DC exhibits strong generalization, outperforming baselines by a large margin on unseen datasets and across various sparsity levels. Moreover, OGNI-DC has high accuracy, achieving state-of-the-art performance on the NYUv2 and the KITTI benchmarks. Code is available at https://github.com/princeton-vl/OGNI-DC.
+epth completion (DC) aims to predict a dense depth map from an RGB image and sparse depth observations. Existing methods for DC generalize poorly on new datasets or unseen sparse depth patterns, limiting their practical applications. We propose OMNI-DC, a highly robust DC model that generalizes well across various scenarios. Our method incorporates a novel multi-resolution depth integration layer and a probability-based loss, enabling it to deal with sparse depth maps of varying densities. Moreover, we train OMNI-DC on a mixture of synthetic datasets with a scale normalization technique. To evaluate our model, we establish a new evaluation protocol named Robust-DC for zero-shot testing under various sparse depth patterns. Experimental results on Robust-DC and conventional benchmarks show that OMNI-DC significantly outperforms the previous state of the art. The checkpoints, training code, and evaluations are available at https://github.com/princeton-vl/OMNI-DC.
