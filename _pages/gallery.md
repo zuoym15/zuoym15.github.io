@@ -6,6 +6,22 @@ author_profile: true
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Dashing Roadrunner</b><br>
+    Sabino Canyon, Tucson AZ, Winter 2024
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/greater_roadrunner.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Gambel's Quail in Desert Stroll</b><br>
+    Desert Botanical Garden, Phoenix AZ, Winter 2024
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/gambels_quail.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>American Tree Sparrow on a Golden Perch</b><br>
     Pole Farm, Princeton NJ, Winter 2024
 </p>
