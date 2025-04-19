@@ -6,6 +6,22 @@ author_profile: true
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>The Rhythm of the Flock</b><br>
+    Baylands Nature Preserve, Palo Alto CA, Spring 2025
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/western_sandpiper.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>A Moment Between Migrations</b><br>
+    Coyote Hills, Fremont CA, Spring 2025
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/barn_swallow.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Dashing Roadrunner</b><br>
     Sabino Canyon, Tucson AZ, Winter 2024
 </p>
