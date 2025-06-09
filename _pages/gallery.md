@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Gaze of the Woodland King</b><br>
+    Bernal Hill, San Francisco CA, Summer 2025
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/great_horned_owl.jpg" width="50%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Crested Watcher on a Weathered Post</b><br>
     Point Reyes National Seashore, CA, Spring 2025
 </p>
