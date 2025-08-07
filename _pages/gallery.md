@@ -6,6 +6,22 @@ author_profile: true
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Fierce Hunter in the Current</b><br>
+    Katmai National Park, AK, Summer 2025
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/brown_bear.jpg" width="50%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Silent Sentinel</b><br>
+    Bernal Hill, San Francisco CA, Summer 2025
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/great_horned_owl_2.jpg" width="50%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Gaze of the Woodland King</b><br>
     Bernal Hill, San Francisco CA, Summer 2025
 </p>
@@ -37,21 +53,21 @@ author_profile: true
     <img src="../files/bird_photos/western_sandpiper.jpg" width="70%" style="border-radius: 15px;">
 </p>
 
-<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+<!-- <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>A Moment Between Migrations</b><br>
     Coyote Hills, Fremont CA, Spring 2025
 </p>
 <p align="center" style="margin-top: 0;">
     <img src="../files/bird_photos/barn_swallow.jpg" width="70%" style="border-radius: 15px;">
-</p>
+</p> -->
 
-<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+<!-- <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Dashing Roadrunner</b><br>
     Sabino Canyon, Tucson AZ, Winter 2024
 </p>
 <p align="center" style="margin-top: 0;">
     <img src="../files/bird_photos/greater_roadrunner.jpg" width="70%" style="border-radius: 15px;">
-</p>
+</p> -->
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Gambel's Quail in Desert Stroll</b><br>
@@ -103,13 +119,13 @@ author_profile: true
     <img src="../files/bird_photos/bald_eagle.jpg" width="70%" style="border-radius: 15px;">
 </p>
 
-<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+<!-- <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Watchful Yellow-Rumped Warbler</b><br>
     Lake Carnegie, Princeton NJ, Fall 2024
 </p>
 <p align="center" style="margin-top: 0;">
     <img src="../files/bird_photos/yellow_rumped_warbler.jpg" width="70%" style="border-radius: 15px;">
-</p>
+</p> -->
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Northern Parula Amid Turning Leaves</b><br>
