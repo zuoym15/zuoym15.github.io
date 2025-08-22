@@ -6,6 +6,24 @@ author_profile: true
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Dust and Gold, Fur and Bone</b><br>
+    Baylands Nature Preserve, Palo Alto CA, Summer 2025
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/coyote.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Black-necked Stilt: Long Legs at Low Tide</b><br>
+    Baylands Nature Preserve, Palo Alto CA, Summer 2025
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/black_necked_stilt.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Fierce Hunter in the Current</b><br>
     Katmai National Park, AK, Summer 2025
 </p>
