@@ -20,8 +20,9 @@ Education
 
 Visiting Positions
 ======
+* Research Intern, Apple Inc., 2025. Supervisors: [Dr. Vladlen Koltun](https://vladlen.info/) and [Dr. Stephan R. Richter](http://www.stephanrichter.org/)
 * Visiting Student, Johns Hopkins University, 2018. Research Advisor: [Prof. Alan L. Yuille](http://www.cs.jhu.edu/~ayuille/)
-* Exchange Student, National Unversity of Singapore, 2017. Research Advisor: [Prof. Jiashi Feng](https://sites.google.com/site/jshfeng/)
+* Exchange Student, National Unversity of Singapore, 2017. Research Advisor: [Dr. Jiashi Feng](https://sites.google.com/site/jshfeng/)
 
 Selected Honors
 ======
@@ -36,7 +37,7 @@ Selected Honors
 Academic Services
 ======
 
-* Conference Reviewer: CVPR 23-25, ECCV 24, ICCV 23/25, NeurIPS 24-25, ICLR 25, ICML 22, 3DV 25, ICRA 21/22
+* Conference Reviewer: CVPR 23-26, ECCV 24, ICCV 23/25, NeurIPS 24-25, ICLR 25-26, ICML 22, 3DV 25, ICRA 21/22
 
 Miscellaneous
 ======
