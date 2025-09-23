@@ -3,6 +3,7 @@ layout: archive
 title: "Selection of My Wildlife Photographies"
 permalink: /gallery/
 author_profile: true
+classes: gallery-dark
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">

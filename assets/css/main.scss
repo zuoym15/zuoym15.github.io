@@ -39,3 +39,75 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* --- Gallery-only dark theme --- */
+.gallery-dark {
+  background-color: #001f3f;  /* dark navy */
+  color: #ffffff;
+}
+
+/* Make common sections match the dark background */
+.gallery-dark .masthead,
+.gallery-dark .page,
+.gallery-dark .archive,
+.gallery-dark .initial-content,
+.gallery-dark .page__inner-wrap,
+.gallery-dark .site-footer,
+.gallery-dark .sidebar {
+  background-color: #001f3f;
+}
+
+/* Text & links */
+.gallery-dark a { color: #66ccff; }
+.gallery-dark a:hover,
+.gallery-dark a:focus { color: #b3e5ff; }
+
+/* Titles and meta text */
+.gallery-dark h1,
+.gallery-dark h2,
+.gallery-dark h3,
+.gallery-dark h4,
+.gallery-dark h5,
+.gallery-dark h6 { color: #ffffff; }
+
+.gallery-dark .page__title,
+.gallery-dark .page__lead,
+.gallery-dark .page__meta { color: #ffffff; }
+
+/* Archive cards/items often have their own colors—neutralize them */
+.gallery-dark .archive__item,
+.gallery-dark .archive__item-excerpt,
+.gallery-dark .archive__item-teaser,
+.gallery-dark .card,
+.gallery-dark .panel {
+  background: transparent;
+  color: #ffffff;
+  border-color: rgba(255,255,255,0.2);
+}
+
+/* Code blocks / inline code for readability */
+.gallery-dark code,
+.gallery-dark pre {
+  background: rgba(255,255,255,0.08);
+  color: #ffffff;
+  border-color: rgba(255,255,255,0.15);
+}
+
+/* Horizontal rules and subtle borders */
+.gallery-dark hr,
+.gallery-dark .nav__list .nav__items,
+.gallery-dark .author__urls,
+.gallery-dark .pagination,
+.gallery-dark .breadcrumbs,
+.gallery-dark .toc {
+  border-color: rgba(255,255,255,0.2);
+}
+
+/* Search input / form fields if present */
+.gallery-dark input,
+.gallery-dark textarea,
+.gallery-dark select {
+  background: rgba(255,255,255,0.08);
+  color: #ffffff;
+  border-color: rgba(255,255,255,0.25);
+}
