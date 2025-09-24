@@ -7,6 +7,14 @@ classes: gallery-dark
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Drenched in Golden Sunlight</b><br>
+    Ed R. Levin County Park, Milpitas CA, Fall 2025
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/mallard.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Tide of Wings, Touch of Grace</b><br>
     Ocean Beach, San Francisco CA, Fall 2025
 </p>
