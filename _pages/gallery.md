@@ -7,6 +7,22 @@ classes: gallery-dark
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>A Paw Between Shadow and Snow</b><br>
+    Yellowstone National Park, WY, Winter 2025
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/coyote_winter.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Stillness and Stride</b><br>
+    Yellowstone National Park, WY, Winter 2025
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/bison.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Drenched in Golden Sunlight</b><br>
     Ed R. Levin County Park, Milpitas CA, Fall 2025
 </p>
