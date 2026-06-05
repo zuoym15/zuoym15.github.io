@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Department of Computer Science, Princeton University<br>
-35 Olden Street, Princeton, NJ 08540-5233<br>
-Email: zuoym [at] princeton.edu
+Waymo<br>
+680 E Middlefield Rd, Mountain View, CA 94043<br>
+Email: zuoyiming17 [at] gmail [dot] com

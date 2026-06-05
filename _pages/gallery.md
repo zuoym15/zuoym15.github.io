@@ -7,6 +7,14 @@ classes: gallery-dark
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Crest Above the Golden Meadow</b><br>
+    Point Reyes National Seashore, CA, Spring 2026
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/california_quail_2.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>The Softest Shore</b><br>
     Morro Bay, CA, Spring 2026
 </p>
@@ -72,13 +80,13 @@ classes: gallery-dark
 </p>
 
 
-<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+<!-- <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Black-necked Stilt: Long Legs at Low Tide</b><br>
     Baylands Nature Preserve, Palo Alto CA, Summer 2025
 </p>
 <p align="center" style="margin-top: 0;">
     <img src="../files/bird_photos/black_necked_stilt.jpg" width="70%" style="border-radius: 15px;">
-</p>
+</p> -->
 
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
@@ -218,7 +226,6 @@ classes: gallery-dark
 <p align="center" style="margin-top: 0;">
     <img src="../files/bird_photos/atlantic_puffin.jpg" width="70%" style="border-radius: 15px;">
 </p>
-
 
 
 

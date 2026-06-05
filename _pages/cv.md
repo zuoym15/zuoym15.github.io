@@ -11,10 +11,14 @@ redirect_from:
 
 For my full CV, see [here](http://zuoym15.github.io/files/Yiming_Zuo_CV.pdf).
 
+Employment
+======
+* ML Engineer, Waymo, 2026 - Present
+
 Education
 ======
 
-* Ph.D. in Computer Science, Princeton University. Research advisor: [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
+* Ph.D. in Computer Science, Princeton University, 2026. Research advisor: [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
 * M.S. in Robotics, Carnegie Mellon University, 2021. Research Advisor: [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/)
 * B.Eng in Electronic Engineering (with Honors), Tsinghua University, 2019.
 
@@ -37,13 +41,13 @@ Selected Honors
 Academic Services
 ======
 
-* Conference Reviewer: CVPR 23-26, ECCV 24/26, ICCV 23/25, NeurIPS 24-25, ICLR 25-26, ICML 22, 3DV 25, ICRA 21/22
+* Reviewer: IEEE TPAMI, CVPR 23-26, ECCV 24/26, ICCV 23/25, NeurIPS 24-25, ICLR 25-26, ICML 22, 3DV 25, ICRA 21/22
 
 Miscellaneous
 ======
 * I love birds! I do bird watching and wildlife photography.
-* I play Mahjong, Texas Hold'em and Pokémon.
-* I'm a beginner Japanese learner, having passed JLPT N3.
+<!-- * I play Mahjong, Texas Hold'em and Pokémon. -->
+<!-- * I'm a beginner Japanese learner, having passed JLPT N3. -->
 
 
 <!-- Work experience
