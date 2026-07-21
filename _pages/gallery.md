@@ -7,6 +7,14 @@ classes: gallery-dark
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Velvet Crown in the Evening Light</b><br>
+    Los Altos, CA, Summer 2026
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/mule_deer.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Crest Above the Golden Meadow</b><br>
     Point Reyes National Seashore, CA, Spring 2026
 </p>
@@ -226,8 +234,6 @@ classes: gallery-dark
 <p align="center" style="margin-top: 0;">
     <img src="../files/bird_photos/atlantic_puffin.jpg" width="70%" style="border-radius: 15px;">
 </p>
-
-
 
 
 

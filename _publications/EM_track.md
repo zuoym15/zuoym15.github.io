@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/EM_track
 venue: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
 date: 2021-6-19
-citation: 'Adam W. Harley, <b>Yiming Zuo*</b>, Jing Wen*, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki'
+citation: 'Adam W. Harley, <b>Yiming Zuo*</b>, Jing Wen*, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki (*Equal Contribution)'
 ---
 
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Harley_Track_Check_Repeat_An_EM_Approach_to_Unsupervised_Tracking_CVPR_2021_paper.pdf)

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Infinigen
 venue: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
 date: 2023-6-18
-citation: 'Alexander Raistrick*, Lahav Lipson*, Zeyu Ma*, Lingjie Mei, Mingzhe Wang, <b>Yiming Zuo</b>, Karhan Kayan, Hongyu Wen, Beining Han, Yihan Wang, Alejandro Newell, Hei Law, Ankit Goyal, Kaiyu Yang, Jia Deng (*equal contribution)'
+citation: 'Alexander Raistrick*, Lahav Lipson*, Zeyu Ma*, Lingjie Mei, Mingzhe Wang, <b>Yiming Zuo</b>, Karhan Kayan, Hongyu Wen, Beining Han, Yihan Wang, Alejandro Newell, Hei Law, Ankit Goyal, Kaiyu Yang, Jia Deng (*Equal Contribution)'
 ---
 
 [[PDF]](https://arxiv.org/abs/2306.09310.pdf)

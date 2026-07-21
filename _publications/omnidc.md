@@ -1,7 +1,7 @@
 ---
 title: "OMNI-DC: Highly Robust Depth Completion with Multiresolution Depth Integration"
 collection: publications
-permalink: /publications/ognidc
+permalink: /publications/omnidc
 venue: "International Conference on Computer Vision (ICCV)"
 date: 2025-10-19
 citation: '<b>Yiming Zuo</b>, Willow Yang, Zeyu Ma, Jia Deng'

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CRAVES
 venue: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
 date: 2019-6-18
-citation: '<b>Yiming Zuo</b>*, Weichao Qiu*, Lingxi Xie, Fangwei Zhong, Yizhou Wang, Alan L. Yuille'
+citation: '<b>Yiming Zuo</b>*, Weichao Qiu*, Lingxi Xie, Fangwei Zhong, Yizhou Wang, Alan L. Yuille (*Equal Contribution)'
 ---
 
 [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zuo_CRAVES_Controlling_Robotic_Arm_With_a_Vision-Based_Economic_System_CVPR_2019_paper.pdf)

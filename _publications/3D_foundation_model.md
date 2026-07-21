@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/3D_foundation_model
 venue: "International Conference on 3D Vision (3DV)"
 date: 2025-3-25
-citation: '<b>Yiming Zuo</b>*, Karhan Kayan*, Maggie Wang, Kevin Jeon, Jia Deng, Thomas L. Griffiths'
+citation: '<b>Yiming Zuo</b>*, Karhan Kayan*, Maggie Wang, Kevin Jeon, Jia Deng, Thomas L. Griffiths (*Equal Contribution)'
 ---
 
 [[PDF]](https://arxiv.org/abs/2410.10799)
