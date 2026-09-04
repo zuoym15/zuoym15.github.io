@@ -2,7 +2,7 @@
 title: "Zero-Shot Depth from Defocus"
 collection: publications
 permalink: /publications/FOSSA
-venue: "European Conference on Computer Vision (ECCV)"
+venue: "<b>(Spotlight Presentation)</b> European Conference on Computer Vision (ECCV)"
 date: 2026-09-08
 citation: '<b>Yiming Zuo*</b>, Hongyu Wen*, Venkat Subramanian*, Patrick Chen, Karhan Kayan, Mario Bijelic, Felix Heide, Jia Deng (*Equal Contribution)'
 ---
