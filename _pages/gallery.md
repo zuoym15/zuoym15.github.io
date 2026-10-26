@@ -7,6 +7,14 @@ classes: gallery-dark
 ---
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
+    <b>Hovering in Lavender</b><br>
+    Costanoa, Pescadero CA, Fall 2026
+</p>
+<p align="center" style="margin-top: 0;">
+    <img src="../files/bird_photos/annas_hummingbird.jpg" width="70%" style="border-radius: 15px;">
+</p>
+
+<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>A Mouthful of Summer</b><br>
     Yosemite National Park, CA, Summer 2026
 </p>
