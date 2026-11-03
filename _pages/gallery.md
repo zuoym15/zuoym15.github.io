@@ -8,7 +8,7 @@ classes: gallery-dark
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Small Owl, Wide Sky</b><br>
-    San Mateo, CA, Fall 2026
+    Seal Point Park, San Mateo CA, Fall 2026
 </p>
 <p align="center" style="margin-top: 0;">
     <img src="../files/bird_photos/burrowing_owl.jpg" width="70%" style="border-radius: 15px;">
