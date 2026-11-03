@@ -162,22 +162,6 @@ classes: gallery-dark
 </p>
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
-    <b>Crested Watcher on a Weathered Post</b><br>
-    Point Reyes National Seashore, CA, Spring 2025
-</p>
-<p align="center" style="margin-top: 0;">
-    <img src="../files/bird_photos/california_quail.jpg" width="70%" style="border-radius: 15px;">
-</p>
-
-<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
-    <b>Forster’s Tern: A Whisper Above the Blue</b><br>
-    Baylands Nature Preserve, Palo Alto CA, Spring 2025
-</p>
-<p align="center" style="margin-top: 0;">
-    <img src="../files/bird_photos/fosters_tern.jpg" width="70%" style="border-radius: 15px;">
-</p>
-
-<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>The Rhythm of the Flock</b><br>
     Baylands Nature Preserve, Palo Alto CA, Spring 2025
 </p>
@@ -234,14 +218,6 @@ classes: gallery-dark
     <img src="../files/bird_photos/ruby_crowned_kinglet.jpg" width="70%" style="border-radius: 15px;">
 </p>
 
-
-<p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
-    <b>Palm Warbler Among Autumn Berries</b><br>
-    Lake Carnegie, Princeton NJ, Fall 2024
-</p>
-<p align="center" style="margin-top: 0;">
-    <img src="../files/bird_photos/palm_warbler.jpg" width="70%" style="border-radius: 15px;">
-</p>
 
 <p align="center" style="font-family: Georgia, serif; font-size: 18px; margin-top: 1px; margin-bottom: 10px;">
     <b>Soaring Through The Autumn Sky</b><br>
